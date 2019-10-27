@@ -1,6 +1,6 @@
 # COIT11134 - Sample Exam - BQ4 - GUI Dev, Components, Layouts
 
-## Question 4	5 MARKS
+## Question 4	(5 MARKS)
 
 Identify the javax.swing components from the following GUI.
 Explain how the layout managers can be used for this GUI.

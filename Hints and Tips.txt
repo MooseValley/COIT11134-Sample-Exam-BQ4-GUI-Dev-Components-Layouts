@@ -1,6 +1,10 @@
 Practice Exam question
 Hints and Tips by Mike OMalley.
 
+NOTE:
+* A great way to explore this question and check your answer
+  to this question (when you are doing your revision before the exam)
+  is to write the code to actually build the required GUI.
 
 This question has 2 parts:
 * name the GUI Components used, and,
@@ -11,7 +15,4 @@ For the second part, think about the layout managers you would need to construct
 Hint: Create a Story Board - draw the GUI, carve it up into sections and apply a layout manager
 to each section.  Then use another layout mananger to combine the pieces.
 
-A great way to check your answer this practice question
-(when you are ydoing your revision before the exam)
-is to write the code to actually build the required GUI.
-
+.
